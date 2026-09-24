@@ -27,7 +27,11 @@ Estou sempre buscando aprender novas tecnologias e transformar meus estudos em p
 
 Aqui estão alguns dos projetos que estou desenvolvendo durante minha formação:
 
-* **Site para Estúdio de Tatuagem** — Projeto em desenvolvimento para criar uma presença digital para um estúdio de tatuagem, apresentando os profissionais, seus estilos de trabalho, portfólios e formas de contato. Utiliza HTML, CSS e JavaScript, com foco em organização do conteúdo, criação da interface, interatividade e responsividade.
+* **Projeto Patas** — Projeto Patas é um site institucional desenvolvido para uma **ONG fictícia** de proteção animal, criado como projeto acadêmico.
+
+O projeto apresenta uma interface responsiva e acessível, com páginas voltadas à apresentação da organização, adoção de animais e formas de contribuição. A aplicação também utiliza JavaScript para navegação dinâmica, manipulação do DOM, templates e armazenamento de dados.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript.
 
 > Os projetos serão adicionados ou atualizados conforme avanço nos estudos e desenvolvo novas aplicações.
 
