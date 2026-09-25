@@ -22,6 +22,7 @@ Estou sempre buscando aprender novas tecnologias e transformar meus estudos em p
 * Node.js
 * Desenvolvimento Full Stack
 * UX/UI e desenvolvimento de interfaces
+* Phyton
 
 ## Projetos
 
