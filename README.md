@@ -22,7 +22,7 @@ Estou sempre buscando aprender novas tecnologias e transformar meus estudos em p
 * Node.js
 * Desenvolvimento Full Stack
 * UX/UI e desenvolvimento de interfaces
-* Phyton
+* Python
 
 ## Projetos
 
@@ -52,7 +52,6 @@ Estou focada em fortalecer minha base de programação e construir uma base sól
 ## 📫 Contato
 
 * **LinkedIn:** https://www.linkedin.com/in/taciane-bonando/
-* **GitHub:**
 
 ---
 
