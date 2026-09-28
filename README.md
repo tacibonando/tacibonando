@@ -20,9 +20,9 @@ Estou sempre buscando aprender novas tecnologias e transformar meus estudos em p
 * React
 * TypeScript
 * Node.js
-* Desenvolvimento Full Stack
 * UX/UI e desenvolvimento de interfaces
 * Python
+* MySQL
 
 ## Projetos
 
